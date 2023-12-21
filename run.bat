@@ -1,0 +1,1 @@
+start cmd.exe /k "cd C:\Users\sespi\OneDrive\Documentos\Repositorios\Api_Spotify && npm start"
