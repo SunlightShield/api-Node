@@ -9,7 +9,8 @@ const router = express.Router();
 const UserController = require("../controllers/user")
 //importar rutas
 
-router.get("/prueba", UserController.prueba)
+router.get("/prueba", UserController.prueba);
+router.post("/register", UserController.register);
 
 //importar router
 
